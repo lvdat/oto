@@ -8,8 +8,8 @@
 + Easy add product, categories, post...
 + Easy content and admin manager, amazing charting and visualization.
 + Modern design, high-friendly with any browser, reponsive.
-+ 
++ ...
 ### Beta development
 This project is in early development. Functions will be unstable and only suitable for the local environment. Stable releases will be released soon!
 #### Team development
-+ [lvdat](https://github.com/lvdat) ![lvdat](https://avatars.githubusercontent.com/u/72507371?v=4 "lvdat")
++ ![lvdat](https://avatars.githubusercontent.com/u/72507371?v=4&size=40 "lvdat") [lvdat](https://github.com/lvdat) 
